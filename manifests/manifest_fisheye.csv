@@ -7,7 +7,4 @@ B05,05780_MVL.png,fisheye_left,core,crosswalk + road_curb,ung vien - coach xem l
 B06,04068_MVL.png,fisheye_left,core,drivable + lane position=other,ung vien - coach xem lai va chot
 B07,01216_MVR.png,fisheye_right,core,crosswalk + road_curb,ung vien - coach xem lai va chot
 B08,05783_MVR.png,fisheye_right,core,drivable + lane position=other,ung vien - coach xem lai va chot
-B09,02686_FV.png,fisheye_front,extra,den/bien sat mep + lane,ung vien - coach xem lai va chot
-B10,01153_MVL.png,fisheye_left,extra,crosswalk,ung vien - coach xem lai va chot
-B11,07282_RV.png,fisheye_rear,extra,chi lane vach doc; bo vach o do (bay QC1-03),ung vien - coach xem lai va chot
-B12,05885_MVR.png,fisheye_right,extra,drivable + crosswalk,ung vien - coach xem lai va chot
+
