@@ -25,6 +25,7 @@ Cách đặt tag ảnh trên bản CVAT này: Create a tag
 
 ## 3. Bảng ca khó
 | Ảnh | Nhãn | Phân vân giữa | Đã chọn | Lý do |
+| --- | --- | --- | --- | --- |
 | A06 | Drivable | Direct và Alternative | Alternative | Đường thẳng thì direct, còn lại đường đi được thì Alternative |
 | A08 | Lane | L1 và không gán | Không gán | Không nhìn rõ đường |
 | B06 | Drivable | Direct và Không gán | Direct | Cam fisheye_left đang cho thấy xe đi sát lề bên trái nhưng còn khoảng trống phía trước vẫn vẽ |
@@ -32,14 +33,15 @@ Cách đặt tag ảnh trên bản CVAT này: Create a tag
 ## 4. Phiếu QC 1 nhận được
 Bạn kiểm lô của tôi:  Quyết định nhận được:  
 | Mã lỗi | Số lỗi | Đồng ý? | Đã sửa? |
+| --- | ---: | --- | --- |
 | nặng | 6 | 0 | 0 |
 | chính | 9 | 3 | 3 |
 | nhẹ | 1 | 1 | 0 |
 
 ## 5. Kiểm file export
 | File | Mở lại được? | Số shape ảnh 1 (job / file) | Số shape ảnh 2 (job / file) | Tag camera có trong XML? |
+| --- | --- | --- | --- | --- |
 | DamTranMinhQuang-manifest.json | Được | 12/20 | 8/20 | 20 |
-
 ## 6. Ảnh chụp màn hình
 1. Tab Labels của project.
    ![Tab Labels](../tab%20labels.png)
