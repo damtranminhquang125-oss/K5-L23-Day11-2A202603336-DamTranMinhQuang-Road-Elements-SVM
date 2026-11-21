@@ -12,6 +12,7 @@ Thời điểm export (ngày giờ trên CVAT): 23h30    Số lần nộp lại 
 | 4 tag ảnh | Đúng |  |
 
 Cách kết thúc polyline trên bản CVAT này: Hở
+
 Cách đặt tag ảnh trên bản CVAT này: Create a tag
 
 ## 2. Số lượng đã gán
